@@ -41,7 +41,7 @@ pip install opencv-python mediapipe screen_brightness_control pycaw numpy
 Clone this repository or download the `hand_control.py` file.
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-control.git
+git clone https://github.com/deeptesh-rout/Hand-Control-Python
 ```
 
 ### 3. Run the Application
